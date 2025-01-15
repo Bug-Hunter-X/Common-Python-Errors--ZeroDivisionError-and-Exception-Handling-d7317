@@ -1,0 +1,1 @@
+This repository contains examples of common Python errors, specifically the ZeroDivisionError that occurs when dividing by zero, and demonstrates best practices for handling exceptions during data processing. The examples highlight how to prevent these issues and make the code more robust and less prone to unexpected crashes.
